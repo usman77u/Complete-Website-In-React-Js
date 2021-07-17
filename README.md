@@ -1,4 +1,5 @@
 # Complete-Website-In-React-Js
+create a images folder and images paste inside the image folder
 functional component use
 Fat arrow function use
 React Hooks concepts use
